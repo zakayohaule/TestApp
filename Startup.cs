@@ -15,6 +15,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using TestApp.Database;
+using TestApp.Http.Requests;
 using TestApp.Services.Implementations;
 using TestApp.Services.Interfaces;
 using TestApp.ViewModels;
@@ -44,6 +45,7 @@ namespace TestApp
                 .AddFluentValidation();
 
             services.AddTransient<IValidator<LoginModel>, LoginModelValidator>();
+            services.AddTransient<IValidator<UpdatePostRequest>, UpdatePostRequestValidator>();
             services.AddScoped<IPostService, PostService>();
         }
 

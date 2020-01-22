@@ -17,13 +17,7 @@ namespace TestApp.Http.Requests
 
             RuleFor(r => r.Name)
                 .NotEmpty()
-                .NotNull()
-                /*.When(req => req.Name != null)
-                    .WithMessage("{PropertyName} is required")
-                .MinimumLength(20)
-                    .WithMessage("This value should at least have 20 characters")
-                .EmailAddress()
-                    .WithMessage("Provide a valid email address")*/;
+                .NotNull();
         }
     }
 }
