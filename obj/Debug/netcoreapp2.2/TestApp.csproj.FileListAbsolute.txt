@@ -1,0 +1,14 @@
+C:\Users\zakayo.haule\RiderProjects\TestApp\bin\Debug\netcoreapp2.2\TestApp.deps.json
+C:\Users\zakayo.haule\RiderProjects\TestApp\bin\Debug\netcoreapp2.2\TestApp.runtimeconfig.json
+C:\Users\zakayo.haule\RiderProjects\TestApp\bin\Debug\netcoreapp2.2\TestApp.runtimeconfig.dev.json
+C:\Users\zakayo.haule\RiderProjects\TestApp\bin\Debug\netcoreapp2.2\TestApp.dll
+C:\Users\zakayo.haule\RiderProjects\TestApp\bin\Debug\netcoreapp2.2\TestApp.pdb
+C:\Users\zakayo.haule\RiderProjects\TestApp\obj\Debug\netcoreapp2.2\TestApp.csprojAssemblyReference.cache
+C:\Users\zakayo.haule\RiderProjects\TestApp\obj\Debug\netcoreapp2.2\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\zakayo.haule\RiderProjects\TestApp\obj\Debug\netcoreapp2.2\TestApp.RazorAssemblyInfo.cache
+C:\Users\zakayo.haule\RiderProjects\TestApp\obj\Debug\netcoreapp2.2\TestApp.RazorAssemblyInfo.cs
+C:\Users\zakayo.haule\RiderProjects\TestApp\obj\Debug\netcoreapp2.2\TestApp.AssemblyInfoInputs.cache
+C:\Users\zakayo.haule\RiderProjects\TestApp\obj\Debug\netcoreapp2.2\TestApp.AssemblyInfo.cs
+C:\Users\zakayo.haule\RiderProjects\TestApp\obj\Debug\netcoreapp2.2\TestApp.RazorTargetAssemblyInfo.cache
+C:\Users\zakayo.haule\RiderProjects\TestApp\obj\Debug\netcoreapp2.2\TestApp.dll
+C:\Users\zakayo.haule\RiderProjects\TestApp\obj\Debug\netcoreapp2.2\TestApp.pdb
